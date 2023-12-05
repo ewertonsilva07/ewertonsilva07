@@ -1,6 +1,6 @@
 #  Hello, my name is <strong>Ewerton!</strong>
 
-I am a front-end developer, I like to edit images and gameplay videos as a hobbie. Feel free to take a look at my projects. 
+I am a front-end developer, I like to edit images and gameplay videos as a hobby. Feel free to take a look at my projects. 
 
 🌱 I’m currently learning Asynchronous Javascript (Ajax)
 
