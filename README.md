@@ -3,6 +3,7 @@
 I am a front-end developer, I like to edit images and gameplay videos as a hobby. Feel free to take a look at my projects. 
 
 🌱 I’m currently learning Asynchronous Javascript (Ajax)
+
 👷 Building my Portfolio Website
 
 > 💬 If you want to talk to me or ask something about the projects, send me an e-mail.
